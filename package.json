@@ -1,0 +1,26 @@
+{
+  "name": "demo001",
+  "version": "1.0.0",
+  "description": "\"\"\u001b[D您好，我是一个测试demo",
+  "main": ":",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yny520/demo001.git"
+  },
+  "author": "yny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yny520/demo001/issues"
+  },
+  "homepage": "https://github.com/yny520/demo001#readme",
+  "keywords": [
+    "你好，我是一个测试demo"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {}
+}
